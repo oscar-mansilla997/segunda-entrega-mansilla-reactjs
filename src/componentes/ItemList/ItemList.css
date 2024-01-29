@@ -1,0 +1,10 @@
+.contenedorProductos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+h2{
+    font-family:'Roboto', sans-serif ;
+    text-decoration: none;
+    text-align: center;
+}
