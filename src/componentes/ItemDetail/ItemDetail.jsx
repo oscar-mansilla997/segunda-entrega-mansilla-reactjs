@@ -1,4 +1,5 @@
-import './ItemDetail.css'
+import React from 'react';
+import './ItemDetail.css';
 
 const ItemDetail = ({id, nombre, precio, img}) => {
   return (
