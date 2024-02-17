@@ -1,0 +1,12 @@
+
+.carrito{  
+background-color: rgba(56, 41, 72, 0.553);
+border-radius: .625rem;
+width: 30rem;
+padding: 1rem;
+margin: 1rem;
+display: flex;
+flex-direction: column;
+align-items: center;
+font-family:'Roboto', sans-serif ;
+text-decoration: none;}
